@@ -1,0 +1,175 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\halil\\OneDrive\\Masa\u00FCst\u00FC\\dogus-bootcamp\\BirinciProje\\PayApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7AF2AB7-A821-4FB0-B3ED-718E22785147}|PayApp\\PayApp.csproj|c:\\users\\halil\\onedrive\\masa\u00FCst\u00FC\\dogus-bootcamp\\birinciproje\\payapp\\payapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7AF2AB7-A821-4FB0-B3ED-718E22785147}|PayApp\\PayApp.csproj|solutionrelative:payapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7AF2AB7-A821-4FB0-B3ED-718E22785147}|PayApp\\PayApp.csproj|c:\\users\\halil\\onedrive\\masa\u00FCst\u00FC\\dogus-bootcamp\\birinciproje\\payapp\\payapp\\classgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7AF2AB7-A821-4FB0-B3ED-718E22785147}|PayApp\\PayApp.csproj|solutionrelative:payapp\\classgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7AF2AB7-A821-4FB0-B3ED-718E22785147}|PayApp\\PayApp.csproj|c:\\users\\halil\\onedrive\\masa\u00FCst\u00FC\\dogus-bootcamp\\birinciproje\\payapp\\payapp\\paymentmethodmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7AF2AB7-A821-4FB0-B3ED-718E22785147}|PayApp\\PayApp.csproj|solutionrelative:payapp\\paymentmethodmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7AF2AB7-A821-4FB0-B3ED-718E22785147}|PayApp\\PayApp.csproj|c:\\users\\halil\\onedrive\\masa\u00FCst\u00FC\\dogus-bootcamp\\birinciproje\\payapp\\payapp\\paymentmethodfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7AF2AB7-A821-4FB0-B3ED-718E22785147}|PayApp\\PayApp.csproj|solutionrelative:payapp\\paymentmethodfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7AF2AB7-A821-4FB0-B3ED-718E22785147}|PayApp\\PayApp.csproj|c:\\users\\halil\\onedrive\\masa\u00FCst\u00FC\\dogus-bootcamp\\birinciproje\\payapp\\payapp\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7AF2AB7-A821-4FB0-B3ED-718E22785147}|PayApp\\PayApp.csproj|solutionrelative:payapp\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7AF2AB7-A821-4FB0-B3ED-718E22785147}|PayApp\\PayApp.csproj|c:\\users\\halil\\onedrive\\masa\u00FCst\u00FC\\dogus-bootcamp\\birinciproje\\payapp\\payapp\\ipaymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7AF2AB7-A821-4FB0-B3ED-718E22785147}|PayApp\\PayApp.csproj|solutionrelative:payapp\\ipaymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7AF2AB7-A821-4FB0-B3ED-718E22785147}|PayApp\\PayApp.csproj|c:\\users\\halil\\onedrive\\masa\u00FCst\u00FC\\dogus-bootcamp\\birinciproje\\payapp\\payapp\\comboboxitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7AF2AB7-A821-4FB0-B3ED-718E22785147}|PayApp\\PayApp.csproj|solutionrelative:payapp\\comboboxitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7AF2AB7-A821-4FB0-B3ED-718E22785147}|PayApp\\PayApp.csproj|c:\\users\\halil\\onedrive\\masa\u00FCst\u00FC\\dogus-bootcamp\\birinciproje\\payapp\\payapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A7AF2AB7-A821-4FB0-B3ED-718E22785147}|PayApp\\PayApp.csproj|solutionrelative:payapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 234,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PaymentMethodManager.cs",
+              "DocumentMoniker": "C:\\Users\\halil\\OneDrive\\Masa\u00FCst\u00FC\\dogus-bootcamp\\BirinciProje\\PayApp\\PayApp\\PaymentMethodManager.cs",
+              "RelativeDocumentMoniker": "PayApp\\PaymentMethodManager.cs",
+              "ToolTip": "C:\\Users\\halil\\OneDrive\\Masa\u00FCst\u00FC\\dogus-bootcamp\\BirinciProje\\PayApp\\PayApp\\PaymentMethodManager.cs",
+              "RelativeToolTip": "PayApp\\PaymentMethodManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T20:59:24.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PaymentMethodFactory.cs",
+              "DocumentMoniker": "C:\\Users\\halil\\OneDrive\\Masa\u00FCst\u00FC\\dogus-bootcamp\\BirinciProje\\PayApp\\PayApp\\PaymentMethodFactory.cs",
+              "RelativeDocumentMoniker": "PayApp\\PaymentMethodFactory.cs",
+              "ToolTip": "C:\\Users\\halil\\OneDrive\\Masa\u00FCst\u00FC\\dogus-bootcamp\\BirinciProje\\PayApp\\PayApp\\PaymentMethodFactory.cs",
+              "RelativeToolTip": "PayApp\\PaymentMethodFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T20:44:38.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClassGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\halil\\OneDrive\\Masa\u00FCst\u00FC\\dogus-bootcamp\\BirinciProje\\PayApp\\PayApp\\ClassGenerator.cs",
+              "RelativeDocumentMoniker": "PayApp\\ClassGenerator.cs",
+              "ToolTip": "C:\\Users\\halil\\OneDrive\\Masa\u00FCst\u00FC\\dogus-bootcamp\\BirinciProje\\PayApp\\PayApp\\ClassGenerator.cs",
+              "RelativeToolTip": "PayApp\\ClassGenerator.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T19:59:01.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPaymentMethod.cs",
+              "DocumentMoniker": "C:\\Users\\halil\\OneDrive\\Masa\u00FCst\u00FC\\dogus-bootcamp\\BirinciProje\\PayApp\\PayApp\\IPaymentMethod.cs",
+              "RelativeDocumentMoniker": "PayApp\\IPaymentMethod.cs",
+              "ToolTip": "C:\\Users\\halil\\OneDrive\\Masa\u00FCst\u00FC\\dogus-bootcamp\\BirinciProje\\PayApp\\PayApp\\IPaymentMethod.cs",
+              "RelativeToolTip": "PayApp\\IPaymentMethod.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T19:24:37.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ComboBoxItem.cs",
+              "DocumentMoniker": "C:\\Users\\halil\\OneDrive\\Masa\u00FCst\u00FC\\dogus-bootcamp\\BirinciProje\\PayApp\\PayApp\\ComboBoxItem.cs",
+              "RelativeDocumentMoniker": "PayApp\\ComboBoxItem.cs",
+              "ToolTip": "C:\\Users\\halil\\OneDrive\\Masa\u00FCst\u00FC\\dogus-bootcamp\\BirinciProje\\PayApp\\PayApp\\ComboBoxItem.cs",
+              "RelativeToolTip": "PayApp\\ComboBoxItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T19:06:14.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PaymentMethod.cs",
+              "DocumentMoniker": "C:\\Users\\halil\\OneDrive\\Masa\u00FCst\u00FC\\dogus-bootcamp\\BirinciProje\\PayApp\\PayApp\\PaymentMethod.cs",
+              "RelativeDocumentMoniker": "PayApp\\PaymentMethod.cs",
+              "ToolTip": "C:\\Users\\halil\\OneDrive\\Masa\u00FCst\u00FC\\dogus-bootcamp\\BirinciProje\\PayApp\\PayApp\\PaymentMethod.cs",
+              "RelativeToolTip": "PayApp\\PaymentMethod.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T18:56:00.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\halil\\OneDrive\\Masa\u00FCst\u00FC\\dogus-bootcamp\\BirinciProje\\PayApp\\PayApp\\Form1.cs",
+              "RelativeDocumentMoniker": "PayApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\halil\\OneDrive\\Masa\u00FCst\u00FC\\dogus-bootcamp\\BirinciProje\\PayApp\\PayApp\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "PayApp\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T18:07:42.113Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\halil\\OneDrive\\Masa\u00FCst\u00FC\\dogus-bootcamp\\BirinciProje\\PayApp\\PayApp\\Form1.cs",
+              "RelativeDocumentMoniker": "PayApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\halil\\OneDrive\\Masa\u00FCst\u00FC\\dogus-bootcamp\\BirinciProje\\PayApp\\PayApp\\Form1.cs",
+              "RelativeToolTip": "PayApp\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T18:06:36.535Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 59,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{605322a2-17ae-43f4-b60f-766556e46c87}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
