@@ -10,7 +10,13 @@ namespace PayApp
         public void GenerateClasses(List<PaymentMethod> paymentMethods)
         {
 
-            string outputDirectory = Path.Combine("C:\\Users\\halil\\OneDrive\\Masaüstü\\dogus-bootcamp\\BirinciProje\\PayApp\\PayApp", "PaymentMethods");
+            //string outputDirectory = Path.Combine("C:\\Users\\halil\\OneDrive\\Masaüstü\\dogus-bootcamp\\BirinciProje\\PayApp\\PayApp", "PaymentMethods");
+            string baseDirectory = AppDomain.CurrentDomain.BaseDirectory;
+            DirectoryInfo? parentDir = Directory.GetParent(baseDirectory); // bin
+            parentDir = parentDir?.Parent; // Debug
+            parentDir = parentDir?.Parent; // net8.0-windows
+            parentDir = parentDir?.Parent; // Proje Ana Dizini (PayApp)
+            string outputDirectory = Path.Combine(parentDir?.FullName ?? "", "PaymentMethods");
             Console.WriteLine(outputDirectory);
 
 

@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\halil\\OneDrive\\Masa\u00FCst\u00FC\\dogus-bootcamp\\BirinciProje\\PayApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A7AF2AB7-A821-4FB0-B3ED-718E22785147}|PayApp\\PayApp.csproj|c:\\users\\halil\\onedrive\\masa\u00FCst\u00FC\\dogus-bootcamp\\birinciproje\\payapp\\payapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7AF2AB7-A821-4FB0-B3ED-718E22785147}|PayApp\\PayApp.csproj|solutionrelative:payapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A7AF2AB7-A821-4FB0-B3ED-718E22785147}|PayApp\\PayApp.csproj|c:\\users\\halil\\onedrive\\masa\u00FCst\u00FC\\dogus-bootcamp\\birinciproje\\payapp\\payapp\\classgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7AF2AB7-A821-4FB0-B3ED-718E22785147}|PayApp\\PayApp.csproj|solutionrelative:payapp\\classgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7AF2AB7-A821-4FB0-B3ED-718E22785147}|PayApp\\PayApp.csproj|c:\\users\\halil\\onedrive\\masa\u00FCst\u00FC\\dogus-bootcamp\\birinciproje\\payapp\\payapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7AF2AB7-A821-4FB0-B3ED-718E22785147}|PayApp\\PayApp.csproj|solutionrelative:payapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A7AF2AB7-A821-4FB0-B3ED-718E22785147}|PayApp\\PayApp.csproj|c:\\users\\halil\\onedrive\\masa\u00FCst\u00FC\\dogus-bootcamp\\birinciproje\\payapp\\payapp\\paymentmethodmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 234,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
@@ -70,15 +70,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ClassGenerator.cs",
               "DocumentMoniker": "C:\\Users\\halil\\OneDrive\\Masa\u00FCst\u00FC\\dogus-bootcamp\\BirinciProje\\PayApp\\PayApp\\ClassGenerator.cs",
               "RelativeDocumentMoniker": "PayApp\\ClassGenerator.cs",
               "ToolTip": "C:\\Users\\halil\\OneDrive\\Masa\u00FCst\u00FC\\dogus-bootcamp\\BirinciProje\\PayApp\\PayApp\\ClassGenerator.cs",
               "RelativeToolTip": "PayApp\\ClassGenerator.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T19:59:01.827Z"
+              "WhenOpened": "2025-04-05T19:59:01.827Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -130,7 +131,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\halil\\OneDrive\\Masa\u00FCst\u00FC\\dogus-bootcamp\\BirinciProje\\PayApp\\PayApp\\Form1.cs",
               "RelativeDocumentMoniker": "PayApp\\Form1.cs",
